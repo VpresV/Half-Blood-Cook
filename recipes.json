@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mosxari-stifado",
+    "file": "recipes/mosxari-stifado.html",
+    "category": "main",
+    "emoji": "🍖",
+    "color": "#c8a882",
+    "title_el": "Μοσχάρι Στιφάδο",
+    "title_en": "Beef Stifado",
+    "subtitle_el": "Αργοψημένο με κρασί και μπαχαρικά",
+    "subtitle_en": "Slow-braised in spiced red wine",
+    "time": "2h",
+    "serves": "4",
+    "difficulty_el": "Εύκολο",
+    "difficulty_en": "Easy",
+    "featured": true
+  },
+  {
+    "id": "tzatziki",
+    "file": "recipes/tzatziki.html",
+    "category": "starter",
+    "emoji": "🥗",
+    "color": "#a8c4b0",
+    "title_el": "Τζατζίκι",
+    "title_en": "Tzatziki",
+    "subtitle_el": "Με σκόρδο και φρέσκο άνηθο",
+    "subtitle_en": "With garlic and fresh dill",
+    "time": "15'",
+    "serves": "6",
+    "difficulty_el": "Πολύ Εύκολο",
+    "difficulty_en": "Very Easy",
+    "featured": false
+  },
+  {
+    "id": "melopita-syrou",
+    "file": "recipes/melopita-syrou.html",
+    "category": "dessert",
+    "emoji": "🍯",
+    "color": "#d4b896",
+    "title_el": "Μελόπιτα Σύρου",
+    "title_en": "Syros Honey Pie",
+    "subtitle_el": "Με ανθότυρο και θυμαρίσιο μέλι",
+    "subtitle_en": "With fresh cheese and thyme honey",
+    "time": "45'",
+    "serves": "8",
+    "difficulty_el": "Μέτριο",
+    "difficulty_en": "Medium",
+    "featured": false
+  }
+]
